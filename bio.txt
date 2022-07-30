@@ -1,0 +1,7 @@
+este es el primer 
+archivo
+    que estoy
+creando en
+           git
+
+
