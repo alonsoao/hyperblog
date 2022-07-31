@@ -1,8 +1,1 @@
-este es el primer 
-archivo
-    que estoy
-creando en
-           git
-
- //////
-y esta linea la acabo de anadir luego
+este es el primer archivo ya ordenado que creare.
