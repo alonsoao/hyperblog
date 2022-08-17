@@ -12,7 +12,7 @@ Este es un ejemplo de como hacer un README.md mas interativo utilizando [Editor.
 
 Y estos son emojis
 
-:tw-1f1f8: :tw-1f17e: :tw-1f1f8::alien:
+:alien:
 
 
 [========]
